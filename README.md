@@ -19,7 +19,7 @@ frame0, frame1
   │  MOTION ANALYZE  (motion_analyze.glsl)    │
   │  Coarse-to-fine block matching per level  │
   │  • Parallel exhaustive candidate scan     │
-  │  • Parallel reduction → global best MV   │
+  │  • Parallel reduction → global best MV    │
   │  • Diamond search refinement              │
   │  • Optional half-pixel bilinear refine    │
   │  Upscales MVs between levels via          │
