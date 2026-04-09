@@ -17,7 +17,6 @@ frame0, frame1
       │ luma mips
   ┌───▼───────────────────────────────────────┐
   │  MOTION ANALYZE  (motion_analyze.glsl)    │
-  │  Coarse-to-fine block matching per level   │
   │  • Parallel exhaustive candidate scan     │
   │  • Parallel reduction → global best MV    │
   │  • Diamond search refinement              │
